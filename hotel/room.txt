@@ -1,0 +1,1 @@
+1	lx	y	2	lx	n	3	ac	y	4	ac	n	5	na	n
